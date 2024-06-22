@@ -11,5 +11,7 @@ ensure env update in env.development file
 run all the services
 go to localhost:3005
 
+update that onboarding assist works in local.
+
 ```
 
